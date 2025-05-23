@@ -131,14 +131,6 @@ This project simulates a music streaming service (like Spotify) with real-time e
 4. Push to the branch
 5. Create a Pull Request
 
-## Acknowledgments
-
-Inspired by [DataTalks.Club](https://datatalks.club) Data Engineering course.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Repository
-
-[https://github.com/MOHAMED-EL-HADDIOUI/Music-Streaming-Data-Pipeline](https://github.com/MOHAMED-EL-HADDIOUI/Music-Streaming-Data-Pipeline)

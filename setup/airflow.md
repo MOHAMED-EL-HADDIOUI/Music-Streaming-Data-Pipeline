@@ -13,7 +13,7 @@ We will setup airflow on docker in a dedicated compute instance. dbt is setup in
 - Clone git repo
 
   ```bash
-  git clone https://github.com/MOHAMED-EL-HADDIOUI/Music-Streaming-Data-Pipeline.git && \
+  git clone && \
   cd Music-Streaming-Data-Pipeline
   ```
 - Install anaconda, docker & docker-compose.
@@ -23,8 +23,6 @@ We will setup airflow on docker in a dedicated compute instance. dbt is setup in
   exec newgrp docker
   ```
 - Move the service account json file from local to the VM machine in `~/.google/credentials/` directory.  Make sure it is named as `google_credentials.json`  else the dags will fail!
-
-  - You can use [sftp](https://youtu.be/ae-CV2KfoN0?t=2442) to transfer the file.
 
 - Set the evironment variables (same as Terraform values)-
 

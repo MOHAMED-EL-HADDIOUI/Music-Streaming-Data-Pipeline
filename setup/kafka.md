@@ -13,7 +13,7 @@ We will setup Kafka and eventsim in two separate docker processes in a dedicated
 - Clone git repo and cd into Kafka folder
 
   ```bash
-  git clone https://github.com/MOHAMED-EL-HADDIOUI/Music-Streaming-Data-Pipeline.git && \
+  git clone && \
   cd Music-Streaming-Data-Pipeline
   ```
 
